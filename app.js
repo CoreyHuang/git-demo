@@ -20,7 +20,7 @@ console.log('test 23')
 
 
 console.log('test 23')
+let x = 1
 console.log('test 23')
-console.log('test 23')
-console.log('test 23')
+let x = 2
 console.log('test 23')
